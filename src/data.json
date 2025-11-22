@@ -1,0 +1,40 @@
+{
+  "profile": {
+    "name": "Ignacio Márquez",
+    "role": "Programador • React / TypeScript • Soporte Técnico / Administrativo",
+    "location": "Argentina (disponibilidad remota e híbrida)",
+    "email": "nacho.marquez45@gmail.com",
+    "phone": "+54 3814012380",
+    "social": {
+      "github": "https://github.com/Ignacio-nube",
+      "linkedin": "https://www.linkedin.com/in/nacho-marquez-388856181/",
+      "discord": "nacho8032",
+      "whatsapp": "https://wa.me/543814012380"
+    },
+    "summary": "Programador con tecnicatura en desarrollo de software. Manejo sólido de JavaScript, TypeScript, React, Node.js, SQL y fundamentos fuertes de lógica de programación, lo que me permite aprender cualquier tecnología rápidamente. Además, utilizo IA como herramienta de trabajo (GitHub Copilot, ChatGPT, Claude, agentes de IA) para mejorar productividad, calidad de código y acelerar resolución de problemas.",
+    "objective": "Estoy abierto tanto a puestos de programación junior como a roles de soporte técnico, atención al cliente o tareas administrativas, donde destaco por mi comunicación clara, pensamiento lógico y adaptación. Soy responsable, aprendo muy rápido y disfruto resolver problemas."
+  },
+  "projects": [
+    {
+      "title": "Gráficos IA",
+      "description": "Generador de gráficos inteligente impulsado por IA, que convierte datos en visualizaciones graficas, uso la api de openai para interpretar los datos y crear gráficos dinámicos.",
+      "tags": ["React", "TypeScript", "Chakra UI","Recharts", "OpenAI API"],
+      "link": "https://graficos.ignacio.cloud/",
+      "image": "/project1.jpg"
+    },
+    {
+      "title": "Proyecto 2",
+      "description": "Descripción breve del proyecto 2.",
+      "tags": ["Node.js", "Express", "SQL"],
+      "link": "#",
+      "image": "/project2.jpg"
+    },
+    {
+      "title": "Proyecto 3",
+      "description": "Descripción breve del proyecto 3.",
+      "tags": ["Frontend", "Design"],
+      "link": "#",
+      "image": "/project3.jpg"
+    }
+  ]
+}
