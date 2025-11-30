@@ -23,10 +23,10 @@
       "image": "/project1.jpg"
     },
     {
-      "title": "Proyecto 2",
-      "description": "Descripción breve del proyecto 2.",
-      "tags": ["Node.js", "Express", "SQL"],
-      "link": "#",
+      "title": "Pagina para comprar entradas de eventos QR",
+      "description": "Crea tu evento y despues verifica en el panel de admin.",
+      "tags":  ["React", "TypeScript", "Chakra UI","SQL", "SUPABASE"],
+      "link": "https://eventos.ignacio.cloud/",
       "image": "/project2.jpg"
     },
     {
